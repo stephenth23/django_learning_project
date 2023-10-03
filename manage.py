@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# Set-ExecutionPolicy Unrestricted -Scope Process
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
