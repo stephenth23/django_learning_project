@@ -1,4 +1,4 @@
-## **Django Learning Project**
+# **Django Learning Project**
 This project is my hands-on journey into the world of Django, as part of my learning process. I'm following the Udemy course, "Python Django Dev to Deployment" by Brad Traversy.
 
 ## **About the Project**
